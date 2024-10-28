@@ -1,0 +1,22 @@
+[general]
+import = [
+  "catppuccin-mocha.toml"   
+]
+[env]
+TERM = "xterm-256color"
+
+[window]
+padding.x = 20
+padding.y = 20
+
+option_as_alt = "Both"
+decorations = "Buttonless"
+startup_mode = "SimpleFullscreen"
+
+opacity = 0.6
+blur = true
+
+[font]
+normal.family = "MesloLGS Nerd Font Mono"
+
+size = 18
